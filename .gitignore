@@ -1,0 +1,6 @@
+
+/test/.vs
+/test/obj
+test/.dockerignore
+test/Dockerfile
+test/Properties/launchSettings.json
